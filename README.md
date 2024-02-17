@@ -1,0 +1,1 @@
+Create a student data form with the following features : a. Name and label must be given b. Create a form to collect students data by using the sections name, email, phone, address, class, division, father name and mother name. c. In the class section use a choice field from class 1st to class 10th and in the division section use the choice field as division A, B and C.
